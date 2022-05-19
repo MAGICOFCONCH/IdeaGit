@@ -1,7 +1,9 @@
 package cn.conch.entity;
 
 public class User {
+    //名字
     private String name;
+    //性别
     private String gender;
 
     public String getName() {
