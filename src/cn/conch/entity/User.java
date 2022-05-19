@@ -1,4 +1,5 @@
 package cn.conch.entity;
+//Gitee加了注释
 //用户类
 public class User {
     //名字
