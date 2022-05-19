@@ -1,5 +1,5 @@
 package cn.conch.entity;
-
+//用户类
 public class User {
     //名字
     private String name;
